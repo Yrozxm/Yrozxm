@@ -16,7 +16,6 @@
 🎓 Estudante de desenvolvimento de software  
 🛠️ Foco em Back-End, com conhecimentos em Front-End  
 🌱 Atualmente aprendendo React, aprimorando Java, PHP e JavaScript  
-💡 Apaixonado por tecnologia e sempre buscando aprender algo novo
 
 </div>
 
