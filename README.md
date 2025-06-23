@@ -25,7 +25,7 @@
 
 <p align="center">
   <img 
-    src="https://img.shields.io/badge/Caf%C3%A9s--Tomados-XX-brightgreen" 
+    src="https://img.shields.io/badge/Caf%C3%A9s--Tomados-97-brightgreen" 
     alt="Cafés Tomados" 
   />
 </p>
