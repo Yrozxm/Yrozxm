@@ -23,12 +23,8 @@
 
 ## ☕ Cafés Tomados
 
-<p align="center">
-  <img 
-    src="https://img.shields.io/badge/Caf%C3%A9s--Tomados-97-brightgreen" 
-    alt="Cafés Tomados" 
-  />
-</p>
+<img src="https://api.countapi.xyz/hit/mateusjesus/coffee?style=flat-square" alt="Coffee counter" />
+
 
 ---
 
