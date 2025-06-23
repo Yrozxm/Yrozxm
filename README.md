@@ -1,4 +1,3 @@
-<h1 align="center">✨ Mateus Jesus ✨</h1>
 
 <p align="center">
   💻 Desenvolvedor em formação, apaixonado por tecnologia, código limpo e aprender sempre.
