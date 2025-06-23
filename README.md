@@ -4,6 +4,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mateusjesus&style=flat-square&color=a855f7" alt="Profile views" />
+</div>
+
+---
+
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de desenvolvimento de software  
@@ -33,14 +39,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Discord-pawsbny_-%23a855f7?style=for-the-badge&logo=discord&logoColor=white" />
-</div>
-
----
-
-### 👁️ Visualizações no perfil
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mateusjesus&style=flat-square&color=a855f7" alt="Profile views" />
 </div>
 
 ---
