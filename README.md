@@ -23,11 +23,12 @@
 
 ## ☕ Cafés Tomados
 
-<div align="center">
-  ![Cafés Tomados](https://img.shields.io/badge/Caf%C3%A9s--Tomados-97-brightgreen)
-</div>
-
-*(Atualiza o número “97” sempre que quiseres registrar um novo café!)*
+<p align="center">
+  <img 
+    src="https://img.shields.io/badge/Caf%C3%A9s--Tomados-XX-brightgreen" 
+    alt="Cafés Tomados" 
+  />
+</p>
 
 ---
 
