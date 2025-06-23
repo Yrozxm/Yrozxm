@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Olá,+eu+sou+Mateus+Jesus+👋;Desenvolvedor+Back-End+em+formação;Aprendendo+React,+Java,+PHP+e+mais..." alt="Typing SVG" />
 </div>
-
+---
 <div align="center" style="margin-top: 10px; margin-bottom: 20px;">
   <img src="https://komarev.com/ghpvc/?username=mateusjesus&style=for-the-badge&color=a855f7" alt="Visualizações de perfil" />
 </div>
