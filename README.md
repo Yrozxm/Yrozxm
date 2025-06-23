@@ -1,48 +1,49 @@
-<h1 align="center">Mateus Jesus 👋</h1>
+<h1 align="center">✨ Mateus Jesus ✨</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, inovação e por transformar ideias em código.
+  💻 Desenvolvedor em formação, apaixonado por tecnologia, código limpo e aprender sempre.
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Bem-vindo+ao+meu+GitHub!;Sou+Mateus+Jesus+👋;Aprendendo+React%2C+Java%2C+PHP+e+mais..." alt="Typing SVG" />
+</div>
 
 ---
 
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de desenvolvimento de software  
-- 💻 Foco em desenvolvimento Back-End  
-- 🌱 Atualmente aprendendo React e aprimorando conhecimentos em Java, PHP e JavaScript  
-- ⚡ Gosto de desafios e de aprender coisas novas constantemente
+- 🛠️ Foco em desenvolvimento **Back-End**  
+- 🌱 Atualmente aprendendo **React**, e melhorando em **Java**, **PHP** e **JavaScript**  
+- 💡 Curioso, autodidata e sempre buscando novos desafios
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📫 Como me encontrar
-
-- Discord: `pawsbny_`
-
----
-
-### 📈 Estatísticas do GitHub
+### 🧰 Tecnologias que uso
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mateusjesus&show_icons=true&theme=tokyonight" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusjesus&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,java,javascript,react,git,vscode" />
+</div>
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=mateusjesus&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusjesus&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 📫 Contato
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Discord-pawsbny_-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </div>
 
 ---
 
 <p align="center">
-  Mateus Jesus 💙
+  Feito com 💙 por <strong>Mateus Jesus</strong>
 </p>
