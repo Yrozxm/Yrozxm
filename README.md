@@ -6,6 +6,20 @@
 <div align="center" style="margin-top: 10px; margin-bottom: 20px;">
   <img src="https://komarev.com/ghpvc/?username=mateusjesus&style=for-the-badge&color=a855f7" alt="Visualizações de perfil" />
 </div>
+<h3 ☕ Cafés Tomados </h3>
+
+<div align="center">
+  <!-- Badge estilizado -->
+  <img
+    src="https://img.shields.io/badge/Caf%C3%A9s%20Tomados-97-%236f4e37?style=flat-square&logo=coffeescript&logoColor=white"
+    alt="Cafés Tomados"
+  />
+
+  <!-- Texto de acompanhamento -->
+  <p style="margin-top: 8px;">
+    Já são <strong>97</strong> cafés ☕ – rumo aos 100! 🚀
+  </p>
+</div>
 
 ---
 
@@ -21,7 +35,6 @@
 
 ---
 
-## ☕ Cafés Tomados
 
 ## ☕ Cafés Tomados
 
