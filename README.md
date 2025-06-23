@@ -4,6 +4,11 @@
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mateusjesus&style=flat-square&color=blue" alt="Profile views" />
+</div>
+
+---
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de desenvolvimento de software  
@@ -37,13 +42,6 @@
 
 ---
 
-### 👁️ Visualizações no perfil
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mateusjesus&style=flat-square&color=blue" alt="Profile views" />
-</div>
-
----
 
 <p align="center">
   Feito com 💙 por <strong>Mateus Jesus</strong>
