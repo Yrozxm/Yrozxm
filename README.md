@@ -5,7 +5,6 @@
 ---
 <div align="center" style="margin-top: 10px; margin-bottom: 20px;">
   <img src="https://komarev.com/ghpvc/?username=mateusjesus&style=for-the-badge&color=a855f7" alt="Visualizações de perfil" />
-  ![Cafés Tomados](https://img.shields.io/badge/Caf%C3%A9s--Tomados-97-brightgreen)
 </div>
 
 ---
@@ -19,6 +18,16 @@
 🌱 Atualmente aprendendo React, aprimorando Java, PHP e JavaScript  
 
 </div>
+
+---
+
+## ☕ Cafés Tomados
+
+<div align="center">
+  ![Cafés Tomados](https://img.shields.io/badge/Caf%C3%A9s--Tomados-97-brightgreen)
+</div>
+
+*(Atualiza o número “97” sempre que quiseres registrar um novo café!)*
 
 ---
 
