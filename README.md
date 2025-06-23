@@ -1,4 +1,3 @@
-
 <p align="center">
   💻 Desenvolvedor em formação, apaixonado por tecnologia, código limpo e aprender sempre.
 </p>
@@ -39,6 +38,14 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Discord-pawsbny_-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</div>
+
+---
+
+### 👁️ Visualizações no perfil
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mateusjesus&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
 ---
