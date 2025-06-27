@@ -12,7 +12,7 @@
 <div align="center">
   <!-- Badge estilizado -->
   <img
-    src="https://img.shields.io/badge/Caf%C3%A9s%20Tomados-97-%236f4e37?style=flat-square&logo=coffeescript&logoColor=white"
+    src="https://img.shields.io/badge/Caf%C3%A9s%20Tomados-105-%236f4e37?style=flat-square&logo=coffeescript&logoColor=white"
     alt="Cafés Tomados"
   />
 
