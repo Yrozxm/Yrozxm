@@ -18,7 +18,7 @@
 
   <!-- Texto de acompanhamento -->
   <p style="margin-top: 8px;">
-    Já são <strong>97</strong> cafés ☕ – rumo aos 100! 🚀
+    Já são <strong>105</strong> cafés ☕ – rumo aos 100! 🚀
   </p>
 </div>
 
