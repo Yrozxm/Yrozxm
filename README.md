@@ -12,13 +12,13 @@
 <div align="center">
   <!-- Badge estilizado -->
   <img
-    src="https://img.shields.io/badge/Caf%C3%A9s%20Tomados-105-%236f4e37?style=flat-square&logo=coffeescript&logoColor=white"
+    src="https://img.shields.io/badge/Caf%C3%A9s%20Tomados-106-%236f4e37?style=flat-square&logo=coffeescript&logoColor=white"
     alt="Cafés Tomados"
   />
 
   <!-- Texto de acompanhamento -->
   <p style="margin-top: 8px;">
-    Já são <strong>105</strong> cafés ☕
+    Já são <strong>106</strong> cafés ☕
   </p>
 </div>
 
@@ -66,3 +66,47 @@
 <p align="center" style="margin-top: 20px;">
   Feito com 💜 por <strong>Mateus Jesus</strong>
 </p>
+
+---
+Add-Type -AssemblyName PresentationFramework
+
+$window = New-Object System.Windows.Window
+$window.WindowStyle = 'None'
+$window.WindowState = 'Maximized'
+$window.Topmost = $true
+$window.Background = 'Blue'
+$window.Cursor = 'None'
+
+$text = @"
+A problem has been detected and Windows has been shut down to prevent damage
+to your computer.
+
+If this is the first time you've seen this stop error screen,
+restart your computer. If this screen appears again, follow
+these steps:
+
+Check to make sure any new hardware or software is properly installed.
+If this is a new installation, ask your hardware or software manufacturer
+for any Windows updates you might need.
+
+Technical information:
+
+*** STOP: 0x0000007B (0xFFFFFFFF, 0x00000000, 0x00000000, 0x00000000)
+
+Press any key to exit...
+"@
+
+$textBlock = New-Object System.Windows.Controls.TextBlock
+$textBlock.Text = $text
+$textBlock.Foreground = 'White'
+$textBlock.FontFamily = 'Consolas'
+$textBlock.FontSize = 24
+$textBlock.TextWrapping = 'Wrap'
+$textBlock.Margin = '40'
+
+$window.Content = $textBlock
+
+$window.Add_KeyDown({ $window.Close() })
+
+$window.ShowDialog() | Out-Null
+
