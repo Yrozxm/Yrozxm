@@ -29,7 +29,12 @@
 </div>
 
 ###
-
+<div align="center">
+  <a href="https://open.spotify.com/user/jesusmateusmst">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jesusmateusmst&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+<br/>
 <div align="center">
   <!-- Streak stats e Trophy -->
   <img src="https://streak-stats.demolab.com?user=mateusjesus&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
@@ -55,6 +60,9 @@
     I'm always looking to improve my skills and explore new technologies, while creating efficient and scalable solutions.
   </p>
 </div>
+<br clear="center">
+
+<img align="center" height="156" src="https://i.pinimg.com/originals/fa/30/03/fa3003626b296c420d7dd7e37f794293.gif"  />
 
 ---
 
