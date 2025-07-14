@@ -10,6 +10,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="tailwindcss logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="graphql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
