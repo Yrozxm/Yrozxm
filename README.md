@@ -12,13 +12,13 @@
 <div align="center">
   <!-- Badge estilizado -->
   <img
-    src="https://img.shields.io/badge/Caf%C3%A9s%20Tomados-108-%236f4e37?style=flat-square&logo=coffeescript&logoColor=white"
+    src="https://img.shields.io/badge/Caf%C3%A9s%20Tomados-112-%236f4e37?style=flat-square&logo=coffeescript&logoColor=white"
     alt="Cafés Tomados"
   />
 
   <!-- Texto de acompanhamento -->
   <p style="margin-top: 8px;">
-    Já são <strong>108</strong> cafés ☕
+    Já são <strong>112</strong> cafés ☕
   </p>
 </div>
 
