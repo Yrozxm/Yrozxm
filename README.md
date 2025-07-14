@@ -34,11 +34,11 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jesusmateusmst&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-</div>
+
 <br/>
 <div align="center">
   <!-- Streak stats e Trophy -->
-  <img src="https://streak-stats.demolab.com?user=mateusjesus&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+   <img src="https://streak-stats.demolab.com?user=Yrozxm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=mateusjesus&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
