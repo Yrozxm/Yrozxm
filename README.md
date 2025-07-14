@@ -1,63 +1,66 @@
-<h1 align="center">Hey 👋, Welcome to My Profile!</h1>
-
-### 
-
 <div align="center">
-  <!-- Tecnologias que você usa -->
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="python logo" />
-  <img width="12" />
-</div>
-
-### 
-
-<div align="center">
-  <!-- Links para redes sociais -->
-  <a href="https://discord.com/users/pawsbny_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord" />
-  <a href="https://dev.to/mateusjesus" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" alt="Dev.to" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yrozxm.Yrozxm&"  />
 </div>
 
 ###
 
-<div align="center">
-  <!-- Streak stats e Trophy -->
-  <img src="https://streak-stats.demolab.com?user=mateusjesus&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=mateusjesus&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
+<br clear="both">
+
+<img align="right" height="156" src="https://i.pinimg.com/originals/fa/30/03/fa3003626b296c420d7dd7e37f794293.gif"  />
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusjesus/mateusjesus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusjesus/mateusjesus/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mateusjesus/mateusjesus/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yrozxm/Yrozxm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yrozxm/Yrozxm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yrozxm/Yrozxm/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
-<h3 align="center">A little bit about me:</h3>
-
 <div align="center">
-  <p style="color: white; font-size: 18px; width: 60%; text-align: center;">
-    👨‍💻 I'm a software developer passionate about building robust applications with a focus on back-end technologies.  
-    Currently diving deep into <strong>TypeScript, Next.js, NestJS, TailwindCSS, and AWS</strong>.  
-    I'm always looking to improve my skills and explore new technologies, while creating efficient and scalable solutions.
-  </p>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
----
+###
 
-<p align="center">
-  <strong>Lol</strong>
-</p>
+<div align="left">
+  <a href="pawsbny_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/jesusmateusmst">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jesusmateusmst&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Yrozxm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Yrozxm&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
