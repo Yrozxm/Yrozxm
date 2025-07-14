@@ -1,71 +1,63 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Olá,+eu+sou+Mateus+Jesus+👋; ainda não" alt="Typing SVG" />
-</div>
+<h1 align="center">Hey 👋, Welcome to My Profile!</h1>
 
----
-<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=mateusjesus&style=for-the-badge&color=a855f7" alt="Visualizações de perfil" />
-</div>
-
-<h2> ☕ Cafés Tomados </h2>
+### 
 
 <div align="center">
-  <!-- Badge estilizado -->
-  <img
-    src="https://img.shields.io/badge/Caf%C3%A9s%20Tomados-112-%236f4e37?style=flat-square&logo=coffeescript&logoColor=white"
-    alt="Cafés Tomados"
-  />
+  <!-- Tecnologias que você usa -->
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="python logo" />
+  <img width="12" />
+</div>
 
-  <!-- Texto de acompanhamento -->
-  <p style="margin-top: 8px;">
-    Já são <strong>112</strong> cafés ☕
+### 
+
+<div align="center">
+  <!-- Links para redes sociais -->
+  <a href="https://discord.com/users/pawsbny_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="Discord" />
+  <a href="https://dev.to/mateusjesus" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" alt="Dev.to" />
+</div>
+
+###
+
+<div align="center">
+  <!-- Streak stats e Trophy -->
+  <img src="https://streak-stats.demolab.com?user=mateusjesus&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=mateusjesus&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusjesus/mateusjesus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusjesus/mateusjesus/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mateusjesus/mateusjesus/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h3 align="center">A little bit about me:</h3>
+
+<div align="center">
+  <p style="color: white; font-size: 18px; width: 60%; text-align: center;">
+    👨‍💻 I'm a software developer passionate about building robust applications with a focus on back-end technologies.  
+    Currently diving deep into <strong>TypeScript, Next.js, NestJS, TailwindCSS, and AWS</strong>.  
+    I'm always looking to improve my skills and explore new technologies, while creating efficient and scalable solutions.
   </p>
 </div>
 
 ---
 
-## 🚀 Sobre mim
-
-<div align="center">
-
-🎓 Estudante de desenvolvimento de software  
-🛠️ Foco em Back-End, com conhecimentos em Front-End  
-🌱 Atualmente aprendendo React, aprimorando Java, PHP e JavaScript  
-
-</div>
-
----
-
-## 🧰 Tecnologias que uso
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,java,javascript,react,git,vscode&theme=light" alt="Tecnologias" />
-</div>
-
----
-
-## 📈 Minhas Estatísticas
-
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mateusjesus&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusjesus&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top linguagens" />
-</div>
-
----
-
-## 📫 Onde me encontrar
-
-<div align="center">
-  <a href="https://discord.com/users/pawsbny_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-pawsbny_-%23a855f7?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</div>
-
----
-
-<p align="center" style="margin-top: 20px;">
-  Feito com 💜 por <strong>Mateus Jesus</strong>
+<p align="center">
+  <strong>Lol</strong>
 </p>
-
----
-ha
