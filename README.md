@@ -58,9 +58,7 @@
 
 <div align="center">
   <p style="color: white; font-size: 18px; width: 60%; text-align: center;">
-    👨‍💻 I'm a software developer passionate about building robust applications with a focus on back-end technologies.  
-    Currently diving deep into <strong>TypeScript, Next.js, NestJS, TailwindCSS, and AWS</strong>.  
-    I'm always looking to improve my skills and explore new technologies, while creating efficient and scalable solutions.
+   👨‍💻Trying to be a software developer, passionate about building robust applications focused on back-end technologies and hacking.
   </p>
 </div>
 <br clear="center">
