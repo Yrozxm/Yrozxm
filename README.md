@@ -67,9 +67,4 @@
 
 ---
 
-<p align="center">
-  <strong>Let's Connect!</strong>
-</p>
-<p align ="center"> 
-<Strong> la al al al </Strong>
-</p>
+
