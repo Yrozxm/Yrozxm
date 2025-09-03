@@ -52,19 +52,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mateusjesus/mateusjesus/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<h3 align="center">A little bit about me:</h3>
-
-<div align="center">
-  <p style="color: white; font-size: 18px; width: 60%; text-align: center;">
-   👨‍💻Trying to be a software developer, passionate about building robust applications focused on back-end technologies and hacking.
-  </p>
-</div>
-<br clear="center">
-
-<img align="center" height="156" src="https://i.pinimg.com/originals/fa/30/03/fa3003626b296c420d7dd7e37f794293.gif"  />
-
----
-
-
