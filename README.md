@@ -29,18 +29,3 @@
     <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" alt="Dev.to" />
   </a>
 </div>
-
-###
-<div align="center">
-  <a href="https://open.spotify.com/user/jesusmateusmst">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jesusmateusmst&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusjesus/mateusjesus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusjesus/mateusjesus/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mateusjesus/mateusjesus/output/pacman-contribution-graph.svg">
-</picture>
-
