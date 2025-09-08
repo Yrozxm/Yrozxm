@@ -1,4 +1,4 @@
-HI BUDDY
+HI BUDD
 ---
 <div align="center">
   <a href="https://discord.com/users/pawsbny_" target="_blank">
