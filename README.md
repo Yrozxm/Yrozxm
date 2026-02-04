@@ -32,10 +32,10 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Yrozxm&show_icons=true&theme=dracula&rank_icon=github&count_private=true" alt="Estatísticas Gerais" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yrozxm&show_icons=true&theme=dracula&rank_icon=github&count_private=true" alt="Estatísticas Gerais" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yrozxm&layout=compact&langs_count=8&theme=dracula" alt="Linguagens" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yrozxm&layout=compact&langs_count=8&theme=dracula" alt="Linguagens" />
       </td>
     </tr>
   </table>
